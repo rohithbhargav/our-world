@@ -1,2 +1,2 @@
 # our-world
-online application for any indivudual offical
+online application for any indivudualto apply any offical
